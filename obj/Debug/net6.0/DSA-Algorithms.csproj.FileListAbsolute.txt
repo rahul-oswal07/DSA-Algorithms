@@ -1,0 +1,15 @@
+D:\Projects\DSA-Algorithms\bin\Debug\net6.0\DSA-Algorithms.exe
+D:\Projects\DSA-Algorithms\bin\Debug\net6.0\DSA-Algorithms.deps.json
+D:\Projects\DSA-Algorithms\bin\Debug\net6.0\DSA-Algorithms.runtimeconfig.json
+D:\Projects\DSA-Algorithms\bin\Debug\net6.0\DSA-Algorithms.dll
+D:\Projects\DSA-Algorithms\bin\Debug\net6.0\DSA-Algorithms.pdb
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\DSA-Algorithms.csproj.AssemblyReference.cache
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\DSA-Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\DSA-Algorithms.AssemblyInfoInputs.cache
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\DSA-Algorithms.AssemblyInfo.cs
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\DSA-Algorithms.csproj.CoreCompileInputs.cache
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\DSA-Algorithms.dll
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\refint\DSA-Algorithms.dll
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\DSA-Algorithms.pdb
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\DSA-Algorithms.genruntimeconfig.cache
+D:\Projects\DSA-Algorithms\obj\Debug\net6.0\ref\DSA-Algorithms.dll
